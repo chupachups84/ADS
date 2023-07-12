@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(19,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(31,13): error C2065: v: необъявленный идентификатор
+D:\UNIVER\ИнфПрЛабы\YAMP\Johnson-Trotter\Source.cpp(31,20): error C2065: v: необъявленный идентификатор
