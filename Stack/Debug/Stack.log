@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\Stack\Source.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Stack\Source.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\Stack\Source.cpp(59,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Stack.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\Stack.exe

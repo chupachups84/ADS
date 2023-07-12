@@ -1,0 +1,6 @@
+﻿  9.h
+D:\UNIVER\ИнфПрЛабы\YAMP\Tree\9.h(3,6): error C2182: main: недопустимое использование типа "void"
+D:\UNIVER\ИнфПрЛабы\YAMP\Tree\9.h(7,1): fatal error C1004: непредвиденное обнаружение конца файла
+  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\Tree\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...

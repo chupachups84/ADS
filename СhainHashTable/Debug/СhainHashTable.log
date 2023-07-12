@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\СhainHashTable\StringHash.h(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\СhainHashTable\StringHash.h(12,1): warning C4244: +=: преобразование "double" в "unsigned int", возможна потеря данных
+D:\UNIVER\ИнфПрЛабы\YAMP\СhainHashTable\StringHash.h(21,1): warning C4244: /=: преобразование "double" в "unsigned int", возможна потеря данных
+  СhainHashTable.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\СhainHashTable.exe
