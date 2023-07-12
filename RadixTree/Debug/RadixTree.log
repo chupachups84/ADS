@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\RadixTree\RadixTree.h(30,20): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\RadixTree\RadixTree.h(39,22): warning C4018: <: несоответствие типов со знаком и без знака
+  RadixTree.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\RadixTree.exe
