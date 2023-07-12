@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\divideSetOnTwoSets\Source.cpp(47,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\divideSetOnTwoSets\Source.cpp(75,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\divideSetOnTwoSets\Source.cpp(77,19): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\divideSetOnTwoSets\Source.cpp(85,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\UNIVER\ИнфПрЛабы\YAMP\divideSetOnTwoSets\Source.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+  divideSetOnTwoSets.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\divideSetOnTwoSets.exe
