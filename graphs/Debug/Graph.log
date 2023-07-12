@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\Graph\graphs.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+D:\UNIVER\ИнфПрЛабы\YAMP\Graph\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Graph.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\Graph.exe
