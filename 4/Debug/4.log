@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\4\Source.cpp(40,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\4\Source.cpp(90,23): warning C4018: <: несоответствие типов со знаком и без знака
+  4.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\4.exe
