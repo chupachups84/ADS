@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\UNIVER\ИнфПрЛабы\YAMP\aho-korasik\Bohr.h(31,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\aho-korasik\Bohr.h(45,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\aho-korasik\Bohr.h(91,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\UNIVER\ИнфПрЛабы\YAMP\aho-korasik\Source.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  aho-korasik.vcxproj -> D:\UNIVER\ИнфПрЛабы\YAMP\Debug\aho-korasik.exe
